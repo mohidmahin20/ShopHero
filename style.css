@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .nav-section {
+    background-color: #1a187a;
+  }
+  
+  .nav-body {
+    background-color: #1a187a;
+  }
+  
+  .logo {
+    width: 20%;
+  }
